@@ -1,2 +1,2 @@
 # Exercícios de Treino
-Exercícios de fixação/treino do conteúdo.
+Branch referente aos exercícios de fixação/treino do conteúdo.
