@@ -1,0 +1,2 @@
+A configuração final da fila seria:
+    Queue= {45, 21};

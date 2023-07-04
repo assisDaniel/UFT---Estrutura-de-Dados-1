@@ -1,0 +1,1 @@
+gcc -ansi -O2 -std=c99 %1 %2 -o %3 -lm
