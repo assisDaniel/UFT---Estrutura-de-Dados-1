@@ -1,4 +1,2 @@
-# Olá, seja bem-vindo(a)!
-Este repositório é referente as aulas e exercícios da matéria Estrutura de Dados 1.
-<br>
-OBS: Troque entre as branchs para visualizar o resto do repositório.
+# Treino para Prova
+Branch referente a revisão dos conteúdos que fariam parte da Prova 1 e 2.
